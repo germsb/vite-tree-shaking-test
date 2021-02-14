@@ -1,0 +1,1 @@
+# vite-tree-shaking-test
